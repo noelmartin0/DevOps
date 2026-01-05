@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\A2775898\\source\\repos\\DevOps\\Docker\\Dockerise Hello World .NET Application\\HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F210B45-0AF9-4C2F-9EC2-9003CFCE0FD4}|HelloWorld.csproj|c:\\users\\a2775898\\source\\repos\\devops\\docker\\dockerise hello world .net application\\helloworld\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F210B45-0AF9-4C2F-9EC2-9003CFCE0FD4}|HelloWorld.csproj|solutionrelative:controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F210B45-0AF9-4C2F-9EC2-9003CFCE0FD4}|HelloWorld.csproj|c:\\users\\a2775898\\source\\repos\\devops\\docker\\dockerise hello world .net application\\helloworld\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F210B45-0AF9-4C2F-9EC2-9003CFCE0FD4}|HelloWorld.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F210B45-0AF9-4C2F-9EC2-9003CFCE0FD4}|HelloWorld.csproj|c:\\users\\a2775898\\source\\repos\\devops\\docker\\dockerise hello world .net application\\helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F210B45-0AF9-4C2F-9EC2-9003CFCE0FD4}|HelloWorld.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloWorldController.cs",
+              "DocumentMoniker": "C:\\Users\\A2775898\\source\\repos\\DevOps\\Docker\\Dockerise Hello World .NET Application\\HelloWorld\\Controllers\\HelloWorldController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HelloWorldController.cs",
+              "ToolTip": "C:\\Users\\A2775898\\source\\repos\\DevOps\\Docker\\Dockerise Hello World .NET Application\\HelloWorld\\Controllers\\HelloWorldController.cs",
+              "RelativeToolTip": "Controllers\\HelloWorldController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T18:21:21.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\A2775898\\source\\repos\\DevOps\\Docker\\Dockerise Hello World .NET Application\\HelloWorld\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\A2775898\\source\\repos\\DevOps\\Docker\\Dockerise Hello World .NET Application\\HelloWorld\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-15T16:52:16.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\A2775898\\source\\repos\\DevOps\\Docker\\Dockerise Hello World .NET Application\\HelloWorld\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\A2775898\\source\\repos\\DevOps\\Docker\\Dockerise Hello World .NET Application\\HelloWorld\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T16:48:22.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\A2775898\source\repos\DevOps\Docker\Dockerise Hello World .NET Application\HelloWorld\bin\Release\net8.0\publish\HelloWorld.exe
+C:\Users\A2775898\source\repos\DevOps\Docker\Dockerise Hello World .NET Application\HelloWorld\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\A2775898\source\repos\DevOps\Docker\Dockerise Hello World .NET Application\HelloWorld\bin\Release\net8.0\publish\appsettings.json
+C:\Users\A2775898\source\repos\DevOps\Docker\Dockerise Hello World .NET Application\HelloWorld\bin\Release\net8.0\publish\HelloWorld.dll
+C:\Users\A2775898\source\repos\DevOps\Docker\Dockerise Hello World .NET Application\HelloWorld\bin\Release\net8.0\publish\HelloWorld.deps.json
+C:\Users\A2775898\source\repos\DevOps\Docker\Dockerise Hello World .NET Application\HelloWorld\bin\Release\net8.0\publish\HelloWorld.runtimeconfig.json
+C:\Users\A2775898\source\repos\DevOps\Docker\Dockerise Hello World .NET Application\HelloWorld\bin\Release\net8.0\publish\HelloWorld.pdb
+C:\Users\A2775898\source\repos\DevOps\Docker\Dockerise Hello World .NET Application\HelloWorld\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\Users\A2775898\source\repos\DevOps\Docker\Dockerise Hello World .NET Application\HelloWorld\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\A2775898\source\repos\DevOps\Docker\Dockerise Hello World .NET Application\HelloWorld\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\A2775898\source\repos\DevOps\Docker\Dockerise Hello World .NET Application\HelloWorld\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,11 @@
+C:\app\publish\HelloWorld.exe
+C:\app\publish\appsettings.Development.json
+C:\app\publish\appsettings.json
+C:\app\publish\HelloWorld.dll
+C:\app\publish\HelloWorld.deps.json
+C:\app\publish\HelloWorld.runtimeconfig.json
+C:\app\publish\HelloWorld.pdb
+C:\app\publish\Microsoft.OpenApi.dll
+C:\app\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\app\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\app\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

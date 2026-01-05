@@ -1,0 +1,92 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\A2775898\\source\\repos\\DevOps\\Docker\\Dockerise Hello World .NET Application\\HelloWorld\\HelloWorld.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\A2775898\\source\\repos\\DevOps\\Docker\\Dockerise Hello World .NET Application\\HelloWorld\\HelloWorld.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\A2775898\\source\\repos\\DevOps\\Docker\\Dockerise Hello World .NET Application\\HelloWorld\\HelloWorld.csproj",
+        "projectName": "HelloWorld",
+        "projectPath": "C:\\Users\\A2775898\\source\\repos\\DevOps\\Docker\\Dockerise Hello World .NET Application\\HelloWorld\\HelloWorld.csproj",
+        "packagesPath": "C:\\Users\\A2775898\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\A2775898\\source\\repos\\DevOps\\Docker\\Dockerise Hello World .NET Application\\HelloWorld\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\A2775898\\source\\repos\\DevOps\\Docker\\Dockerise Hello World .NET Application\\HelloWorld\\NuGet.Config",
+          "C:\\Users\\A2775898\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://hrblock.pkgs.visualstudio.com/_packaging/EFileAutomation/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/hrblock/0470b46e-1f42-4fdf-b4aa-9b392089b0bc/_packaging/ArchitecturePackages/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/hrblock/Efile/_packaging/Bridge/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/hrblock/Enterprise%20Testing/_packaging/5f38deec-7344-7319-8612-e788c9da58bb/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/hrblock/HRB-ContinuousTestingFramework/_packaging/CTF-Packages/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/hrblock/OCE-Regulatory/_packaging/oce-regulatory/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/hrblock/_packaging/eep-production%40Local/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/hrblock/ab1482ce-42fe-4cfc-9ec8-5b9fda2e6a10/_packaging/APIM/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
