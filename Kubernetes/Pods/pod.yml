@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: nginx-01
+  labels:
+    app: my-app
+    tier: frontend
+spec:
+  containers:
+  - name: nginx-container
+    image: nginx:latest
